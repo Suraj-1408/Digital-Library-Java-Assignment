@@ -13,27 +13,37 @@ Click **Run** to start the program.
 
 ## Features  
 ✔ **Add** books  
-![Alt Text](image.png)  # If the image is in the same repository
+![Alt Text](https://github.com/Suraj-1408/Digital-Library-Java-Assignment/blob/master/assets/Screenshot%20from%202025-03-27%2016-38-48.png)  
 
 ✔ **View** all books  
-✔ **Search** by title or ID  
+![Alt Text](https://github.com/Suraj-1408/Digital-Library-Java-Assignment/blob/master/assets/Screenshot%20from%202025-03-27%2016-39-01.png)
+
+✔ **Search** by title or ID
+![Alt Text](https://github.com/Suraj-1408/Digital-Library-Java-Assignment/blob/master/assets/Screenshot%20from%202025-03-27%2016-39-23.png)
+
 ✔ **Update** book details  
 ✔ **Delete** books
-![Alt Text](https://raw.githubusercontent.com/Suraj-1408/Digital-Library-Java-Assignment/master/assets/Screenshot%20from%202025-03-27%2016-37-59.png)
+![Alt Text](https://github.com/Suraj-1408/Digital-Library-Java-Assignment/blob/master/assets/Screenshot%20from%202025-03-27%2016-40-39.png)
 
 ✔ **User-friendly menu-driven system**  
 
 ## 🛠 Run Locally  
-```bash
+
 1)** Clone the Repository **
+```
    git clone https://github.com/yourusername/your-repository-name.git
+```
 
 2)** Navigate to Project Folder **
+```
     cd JAVA-ASSIGNMENT
+```
 
 3)** Compile the Source Code. **
+```
 javac *.java  
 java LibraryManagement  
+```
 
 ## Technologies Used
 1) Java
