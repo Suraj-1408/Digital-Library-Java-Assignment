@@ -31,7 +31,7 @@ Click **Run** to start the program.
 
 1)** Clone the Repository **
 ```
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/Suraj-1408/Digital-Library-Java-Assignment?tab=readme-ov-file
 ```
 
 2)** Navigate to Project Folder **
