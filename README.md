@@ -13,10 +13,14 @@ Click **Run** to start the program.
 
 ## Features  
 ✔ **Add** books  
+![Alt Text](image.png)  # If the image is in the same repository
+
 ✔ **View** all books  
 ✔ **Search** by title or ID  
 ✔ **Update** book details  
-✔ **Delete** books  
+✔ **Delete** books
+![Alt Text](assets/Screenshot_from_2025-03-27_16-40-39.png)
+
 ✔ **User-friendly menu-driven system**  
 
 ## 🛠 Run Locally  
