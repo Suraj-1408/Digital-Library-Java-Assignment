@@ -19,7 +19,7 @@ Click **Run** to start the program.
 ✔ **Search** by title or ID  
 ✔ **Update** book details  
 ✔ **Delete** books
-![Alt Text](assets/Screenshot_from_2025-03-27_16-40-39.png)
+![Alt Text](https://raw.githubusercontent.com/Suraj-1408/Digital-Library-Java-Assignment/master/assets/Screenshot%20from%202025-03-27%2016-37-59.png)
 
 ✔ **User-friendly menu-driven system**  
 
